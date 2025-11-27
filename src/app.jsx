@@ -1,0 +1,5 @@
+import BloomingFlower from "./BloomingFlower.jsx";
+
+export default function App() {
+  return <BloomingFlower />;
+}
